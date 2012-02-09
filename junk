@@ -1,0 +1,15 @@
+label{
+	clear: left;
+	float: left;
+	width: 5em;
+	text-align: right;
+	margin-right: .5em;
+}
+
+array.each do |i|
+	puts i
+   end
+
+ <input type="hidden" size="30" name="hiddenURL" id="hiddenURL" value="<%=@suggestedSites.index[v]%>"/>
+
+"http://www.bankofamerica.com" => "Bank Of America", "http://www.fullerton.edu" => "Cal State Fulllerton", "http://www.youtube.com" => "YouTube"

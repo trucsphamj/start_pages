@@ -1,0 +1,134 @@
+
+#header{
+	background-color: blue;
+	border: 2px solid double;
+	margin-left: auto;
+	margin-right:auto;
+	width: 60%;
+	margin-top: 2em;
+}
+
+#body{
+	#background-color: #006699;
+	border: 2px solid;
+	margin-top: .5em;
+	margin-left: auto;
+	margin-right:auto;
+	width: 60%;
+	height: 35em;
+}
+#welcome{
+	float: left;
+}
+
+#b1{
+	width: 10em;
+	height: 3em;
+	color: orange;
+	float: left;
+	border-width: .25em;
+	border-color: red;
+	margin-top: .5em;
+	margin-left: .5em;
+	margin-right: .3em;	
+}
+	
+#b2{
+	width: 10em;
+	height: 3em;
+	color: blue;
+	float: left;
+	border-width: .25em;
+	border-color: red;
+	margin-top: .5em;
+	margin-right: .3em;	
+}
+
+#b3{
+	width: 10em;
+	height: 3em;
+	color: red;
+	float: left;
+	border-width: .25em;
+	border-color: red;
+	margin-top: .5em;
+	margin-right: .3em;		
+}
+
+#b4{
+	width: 10em;
+	height: 3em;
+	color: green;
+	float: left;
+	border-width: .25em;
+	border-color: red;	
+	margin-top: .5em;
+	margin-right: .3em;
+}
+
+#b5{
+	width: 10em;
+	height: 3em;
+	color: blue;
+	float: left;
+	border-width: .25em;
+	border-color: red;	
+	margin-top: .5em;
+}
+
+#register{
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+input{
+	background-color: #CCCCFF;
+}
+
+#txtAboutUs{
+	background-color: #99CCFF;
+}
+
+#guitar{
+	float: left;
+}
+
+#aboutUsMessage{
+	margin-top: 3em
+	float: left;
+}
+
+#rightBody{
+
+	margin-left: 60%;
+	margin-right: 0em;
+	height: 20em;  
+}	
+
+#leftBody{
+	margin-left: 0em;
+	height: 20em;
+	width: 55%;
+	float: left;
+}
+
+#myURL{
+	
+	margin-top: 2em;
+}
+
+#removeURL{
+	float: right;
+}
+
+#addSuggestedURL{
+	float: right;
+}
+
+
+#link{
+
+	margin-left: 40%;
+}
